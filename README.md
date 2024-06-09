@@ -4,7 +4,3 @@
 - C#---[library_architecture_mvvm_modify_c_sharp](https://github.com/antonpichka/library_architecture_mvvm_modify_c_sharp)---[template_for_lamm_c_sharp](https://github.com/antonpichka/template_for_lamm_c_sharp)
 - JS/TS---[library_architecture_mvvm_modify_javascript](https://github.com/antonpichka/library_architecture_mvvm_modify_javascript)---[template_for_lamm_javascript](https://github.com/antonpichka/template_for_lamm_javascript)
 - Python---[library_architecture_mvvm_modify_python](https://github.com/antonpichka/library_architecture_mvvm_modify_python)---[template_for_lamm_python](https://github.com/antonpichka/template_for_lamm_python)
-
-## Projects written on LAMM
-
-- [simplified_clean_architecture](https://github.com/antonpichka/simplified_clean_architecture)
